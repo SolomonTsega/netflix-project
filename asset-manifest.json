@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflix-project/static/css/main.d98f4307.css",
+    "main.js": "/netflix-project/static/js/main.fbdb1e0c.js",
+    "static/media/NetflixLogo.png": "/netflix-project/static/media/NetflixLogo.f113f795bdbaf927c49c.png",
+    "index.html": "/netflix-project/index.html",
+    "main.d98f4307.css.map": "/netflix-project/static/css/main.d98f4307.css.map",
+    "main.fbdb1e0c.js.map": "/netflix-project/static/js/main.fbdb1e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d98f4307.css",
+    "static/js/main.fbdb1e0c.js"
+  ]
+}
